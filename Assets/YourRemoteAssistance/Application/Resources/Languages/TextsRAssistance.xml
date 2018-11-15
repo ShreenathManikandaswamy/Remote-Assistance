@@ -1,0 +1,1241 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<texts>
+
+  <text id="screen.splash.presentation.text">
+    <en>This is a technical demo developed with the asset available in the Unity Asset Store "Your Remote Assistance"++Develop your own apps and games with this asset.</en>
+    <es>Esto es una demo técnica de 6 DOF desarrollado con la herramienta disponible en la Unity Asset Store "Your Remote Assistance"++Dessarrolla tus apps y juegos con esta herramienta.</es>
+  </text>
+
+  <!-- APP NAME -->
+  <text id="message.game.title">
+    <en>[YNT] Remote Assistance</en>
+    <es>[YNT] Remote Assistance</es>
+  </text>
+
+  <!-- COMMON TEXTS -->
+  <text id="message.cancel">
+    <en>Cancel</en>
+    <es>Cancelar</es>
+  </text>
+
+  <text id="message.error">
+    <en>Error</en>
+    <es>Error</es>
+  </text>
+
+  <text id="message.warning">
+    <en>Warning</en>
+    <es>Alerta</es>
+  </text>
+
+  <text id="message.info">
+    <en>Information</en>
+    <es>Informacion</es>
+  </text>
+
+  <text id="message.loading">
+    <en>Loading...</en>
+    <es>Cargando...</es>
+  </text>
+
+  <text id="message.connecting">
+    <en>Connecting...</en>
+    <es>Conectando...</es>
+  </text>
+
+  <text id="message.operation.canceled">
+    <en>Operation canceled</en>
+    <es>Operacion cancelada</es>
+  </text>
+
+  <text id="message.do.you.want.exit">
+    <en>Do you want to exit the app?</en>
+    <es>Desea salir de la aplicacion?</es>
+  </text>
+
+  <text id="message.please.wait">
+    <en>Working. Please, wait...</en>
+    <es>Trabajando. Por favor, espere...</es>
+  </text>
+
+  <text id="message.connecting.players.please.wait.or.start">
+    <en>% Players left to connect. Wait or press button to start game.</en>
+    <es>% Jugadores para conectar. Espere o presione el boton para empezar.</es>
+  </text>
+
+  <text id="message.playing.level.x">
+    <en>LEVEL %</en>
+    <es>NIVEL %</es>
+  </text>
+
+  <text id="message.playing.level.description">
+    <en>Destroy all the enemies before they escape</en>
+    <es>Destruye todos los enemigos antes de que escapen.</es>
+  </text>
+
+  <text id="message.you.should.select.an.item">
+    <en>You should at least select one item</en>
+    <es>Debes seleccionar por lo menos 1 item</es>
+  </text>
+
+  <!-- MAIN MENU -->
+  <text id="screen.main.menu.local.party">
+    <en>Local Party Service</en>
+    <es>Servicio Local</es>
+  </text>
+
+  <text id="screen.main.menu.remote.party">
+    <en>Remote Party Service</en>
+    <es>Servicio Remoto</es>
+  </text>
+
+  <text id="screen.main.menu.instructions.game">
+    <en>Instructions</en>
+    <es>Instrucciones</es>
+  </text>
+
+  <!-- LOCAL GAME -->
+  <text id="screen.local.game.start.a.new.game">
+    <en>Create a new service</en>
+    <es>Crear un nuevo servicio</es>
+  </text>
+
+  <text id="screen.local.game.join.local.game">
+    <en>Join an existing service</en>
+    <es>Unirse al servicio</es>
+  </text>
+
+  <!-- ENABLE VR/GYROSCOPE -->
+  <text id="screen.play.as.vr.game">
+    <en>Play it in VR</en>
+    <es>Jugar en VR</es>
+  </text>
+
+  <text id="screen.play.with.gyroscope">
+    <en>Play it with Gyroscope</en>
+    <es>Jugarlo con Giroscopio</es>
+  </text>
+
+  <!-- PLAYER NUMBER MENU -->
+  <text id="screen.player.number.create.new.game">
+    <en>Create New Service</en>
+    <es>Crear Nuevo Servicio</es>
+  </text>
+
+  <text id="screen.player.number.description">
+    <en>Numbers of participants who are going to join the service</en>
+    <es>Numero de participantes que van a participar</es>
+  </text>
+
+  <text id="screen.player.number.not.right.number">
+    <en>Only 1 to 4 participants are allowed to be in the game</en>
+    <es>Solo esta permitido un numero de 1 a 4 participantes</es>
+  </text>
+
+  <!-- REMOTE MODE -->
+  <text id="screen.remote.mode.friends.mode">
+    <en>Service Friends</en>
+    <es>Servicio a amigos</es>
+  </text>
+
+  <text id="screen.remote.mode.lobby.mode">
+    <en>Go to the service lobby</en>
+    <es>Ir a salon de servicios</es>
+  </text>
+
+  <!-- MAIN LOBBY -->
+  <text id="screen.lobby.create.room">
+    <en>Create a new Room</en>
+    <es>Crear una nueva sala</es>
+  </text>
+
+  <text id="screen.lobby.join.room">
+    <en>Join a room</en>
+    <es>Unirse a una sala</es>
+  </text>
+
+  <!-- CREATE ROOM -->
+  <text id="screen.lobby.create.with.name.room">
+    <en>Create Room</en>
+    <es>Crear Sala</es>
+  </text>
+
+  <text id="screen.lobby.create.with.description.room">
+    <en>Write down the name of the room you want to create</en>
+    <es>Escribe el nombre de la sala que quieres crear</es>
+  </text>
+
+  <text id="screen.lobby.no.name.in.create.room">
+    <en>You should write a name of the room with at least 5 characters</en>
+    <es>Debes escribir un nombre de sala con la menos 5 caracteres</es>
+  </text>
+
+  <!-- JOIN ROOM -->
+  <text id="screen.lobby.join.the.selected.room">
+    <en>Join Room</en>
+    <es>Unirte a la Sala</es>
+  </text>
+
+  <!-- FACEBOOK CONNECTION -->
+  <text id="message.facebook.description.connect.for.friends">
+    <en>In order of establish connection you will have to connect by Facebook</en>
+    <es>Para poder establecer la conexión tendrás que conectarte por Facebook</es>
+  </text>
+
+  <text id="message.facebook.connecting.wait">
+    <en>Connecting Facebook. Please, wait...</en>
+    <es>Connectando con Facebook. Por favor, espere...</es>
+  </text>
+
+  <text id="message.facebook.connecting.to.server">
+    <en>Now connecting to server. Please, wait...</en>
+    <es>Ahora conectando con servidor. Por favor, espere...</es>
+  </text>
+
+  <text id="screen.facebook.connect">
+    <en>Connect with Facebook</en>
+    <es>Conectar con Facebook</es>
+  </text>
+
+  <text id="screen.facebook.connection.error">
+    <en>There was an error on Facebook connection</en>
+    <es>Hubo un error en la conexion a Facebook</es>
+  </text>
+
+  <!-- FACEBOOK MAIN -->
+  <text id="screen.facebook.create.invitation">
+    <en>Invite a friend to new service</en>
+    <es>Invitar a un amigo a nuevo servicio</es>
+  </text>
+
+  <text id="screen.facebook.invitations.list">
+    <en>Accept an invitation from a friend</en>
+    <es>Aceptar una invitación de un amigo</es>
+  </text>
+
+  <!-- FACEBOOK FRIENDS LIST TO INVITE -->
+  <text id="screen.facebook.invite.friends">
+    <en>Select the friends you want to invite</en>
+    <es>Elige los amigos a invitar</es>
+  </text>
+
+  <text id="screen.facebook.send.invitations">
+    <en>Send Invitations</en>
+    <es>Enviar Invitaciones</es>
+  </text>
+
+  <text id="screen.facebook.select.invitation.to.accept">
+    <en>Select the invitation you want to accept</en>
+    <es>Elige la invitacion que deseas aceptar</es>
+  </text>
+
+  <text id="screen.facebook.accept.invitation">
+    <en>Accept Invitation</en>
+    <es>Aceptar Invitacion</es>
+  </text>
+
+  <!-- INSTRUCTIONS PAGES -->
+  <text id="screen.instructions.title">
+    <en>Instructions</en>
+    <es>Instrucciones</es>
+  </text>
+
+  <text id="screen.instructions.page.1">
+    <en>Write the scene to load next in the build settings</en>
+    <es>Write the scene to load next in the build settings</es>
+  </text>
+
+  <text id="screen.instructions.page.2">
+    <en>You can play locally or remotely.++Local is based on UNET, remote is based on Sockets.</en>
+    <es>You can play locally or remotely.++Local is based on UNET, remote is based on Sockets.</es>
+  </text>
+
+  <text id="screen.instructions.page.3">
+    <en>You can organize games with 2 options:++With social networks or with the game lobby</en>
+    <es>You can organize games with 2 options:++With social networks or with the game lobby</es>
+  </text>
+
+  <text id="screen.instructions.page.4">
+    <en>No matter what connection are you in, all the behaviours are the same in UNET and Sockets</en>
+    <es>No matter what connection are you in, all the behaviours are the same in UNET and Sockets</es>
+  </text>
+
+  <text id="screen.user.service.provider">
+    <en>I'm a service provider</en>
+    <es>Soy un proveedor de servicios</es>
+  </text>
+
+  <text id="screen.user.customer">
+    <en>I'm a customer</en>
+    <es>Soy un cliente</es>
+  </text>
+
+  <text id="screen.write.the.phone.number">
+    <en>Write the phone number</en>
+    <es>Escribe el numero de telefono</es>
+  </text>
+
+  <text id="screen.set.up.phone.number">
+    <en>Confirm</en>
+    <es>Confirmar</es>
+  </text>
+
+  <text id="text.call.me">
+    <en>Call Phone</en>
+    <es>Llamar Telefono</es>
+  </text>
+
+  <text id="text.do.you.want.to.call">
+    <en>Do you want to call the phone number % ?</en>
+    <es>Deseas llamar al número de telefono % ?</es>
+  </text>
+
+  <text id="screen.set.up.your.bitcoin.wallet.before.start">
+    <en>Set up your Bitcoin Wallet in order to run payments</en>
+    <es>Establezca el monedero Bitcoin para ejecutar pagos</es>
+  </text>  
+
+  <text id="screen.no.bitcoin.wallet.available">
+    <en>Press here to set up the wallet</en>
+    <es>Pulse aquí para establecer el monedero</es>
+  </text>
+
+  <text id="screen.bitcoin.wallet.ok.then.continue">
+    <en>Start the session</en>
+    <es>Comienze la session</es>
+  </text>
+
+  <!-- +++++++++++++++++++++++++++++++++++++++++++++ -->
+  <!-- +++++++++++++++++++++++++++++++++++++++++++++ -->
+  <!-- BITCOIN TEXTS -->
+  <!-- +++++++++++++++++++++++++++++++++++++++++++++ -->
+  <!-- +++++++++++++++++++++++++++++++++++++++++++++ -->
+
+  <!-- APP NAME -->
+  <text id="message.your.bitcoin.manager.title">
+    <en>Your Bitcoin Manager</en>
+    <es>Your Bitcoin Manager</es>
+  </text>
+
+  <!-- MAIN MENU SCREEN -->
+  <text id="screen.main.menu.send.payment">
+    <en>Send Payment</en>
+    <es>Enviar Pago</es>
+  </text>
+
+  <text id="screen.main.menu.receive.payment">
+    <en>Receive Payment</en>
+    <es>Recibir Pago</es>
+  </text>
+
+  <text id="screen.main.menu.check.wallet">
+    <en>Your Wallet</en>
+    <es>Tu Monedero</es>
+  </text>
+
+  <text id="message.you.dont.have.private.key">
+    <en>You need a Bitcoin Wallet in order to be able to perform this operation</en>
+    <es>Necesita de un monedero para poder efectuar esta operacion</es>
+  </text>
+
+  <text id="screen.list.select.wallet.to.receive.payment">
+    <en>Select the wallet to receive the payment:</en>
+    <es>Elige la cartera para recibir el pago:</es>
+  </text>
+
+  <text id="screen.main.menu.selected.account">
+    <en>Selected Account:</en>
+    <es>Cuenta Seleccionada:</es>
+  </text>
+
+  <text id="screen.main.change.network.and.restart">
+    <en>If you proceed to change the network it will be necessary to restart the app in order to connect with the desired network.++Do you really want to change the network?</en>
+    <es>Si usted procede a cambiar la red será necesareo reiniciar la aplicación para poderse conectar con la red deseada.++Desea proceder con el cambio de red?</es>
+  </text>
+
+  <text id="screen.main.change.network.confirmation">
+    <en>Change to network </en>
+    <es>Cambiar a la red </es>
+  </text>
+
+  <text id="screen.main.access.main.unlock.bitcoin.power">
+    <en>Unlock Bitcoin Power</en>
+    <es>Desbloquear Poder Bitcoin</es>
+  </text>
+
+  <text id="screen.main.access.main.network.pay.iap">
+    <en>Do you want to level up and unlock the access to the Main Bitcoin Network?</en>
+    <es>Desea subir de nivel y desbloquear el acceso a la red principal de Bitcoin?</es>
+  </text>
+
+  <text id="screen.main.access.main.unlock.iap">
+    <en>Unlock Main Bitcoin Network</en>
+    <es>Desbloquear Red Bitcoin Principal</es>
+  </text>
+
+  <text id="screen.main.access.main.success.unlock.iap.confirmation">
+    <en>Main Bitcoin Network Unlocked Succesfully!!++Now you can switch to Main Bitcoin Network!!</en>
+    <es>Red Bitcoin Principal Desbloqueada Exitosamente!!++Ahora puede usted cambiar a la red Bitcoin Principal!!</es>
+  </text>
+
+  <text id="screen.main.access.main.failure.unlock.iap.confirmation">
+    <en>Failed to unlock Main Bitcoin Network</en>
+    <es>Fracaso en desbloqueo de la red Bitcoin principal</es>
+  </text>
+
+  <text id="message.please.close.the.app">
+    <en>You can close the application now</en>
+    <es>Puede cerrar la aplicacion ahora</es>
+  </text>
+
+  <text id="screen.bitcoin.features.page.1">
+    <en>Practise with this wallet as much time as you want with FREE Test Bitcoins in the Test Network for FREE</en>
+    <es>Practica con esta cartera tanto tiempo como desee con Bitcoins de test Gratuitos en la red de testeo gratuita</es>
+  </text>
+
+  <text id="screen.bitcoin.features.page.2">
+    <en>The Test Network is a network the developers are using to develop Bitcoins based applications without spending any real cash</en>
+    <es>La red de testeo es una red que utilizan los desarrolladores de applicaciones Bitcoin sin necesidad de gastar dinero</es>
+  </text>
+
+  <text id="screen.bitcoin.features.page.3">
+    <en>Once you get used the way Bitcoin works you can switch to the Main Bitcoin Network to work with real cash</en>
+    <es>Una vez este acostumbrado a la forma de trabajar de Bitcoin usted puede cambiar a la red principal de Bitcoin con dinero real</es>
+  </text>
+
+  <text id="screen.bitcoin.features.page.4">
+    <en>It also allows ways to move your Bitcoins from cryptocurrency to other currencies like PayPal easily</en>
+    <es>It also allows ways to move your Bitcoins from cryptocurrency to other currencies like PayPal easily</es>
+  </text>
+
+  <text id="screen.bitcoin.features.page.5">
+    <en>You will find the asset in Unity Asset Store in which this application is based so you can develop easily and add Bitcoins to your business</en>
+    <es>Encontrará el asset en la Unity Asset Store en el cual esta basado esta aplicación para que usted pueda integrar Bitcoins en su negocio</es>
+  </text>
+
+  <text id="screen.bitcoin.transactions.inputs">
+    <en>Transactions of received income</en>
+    <es>Transacciones de dinero recibido</es>
+  </text>
+
+  <text id="screen.bitcoin.transactions.outputs">
+    <en>Transactions of sent money</en>
+    <es>Transacciones de dinero enviado</es>
+  </text>
+
+  <text id="screen.bitcoin.transactions.all">
+    <en>All type of transactions</en>
+    <es>Todo tipo de transacciones</es>
+  </text>
+
+  <!-- BITCOIN WALLET -->
+  <text id="screen.bitcoin.wallet.send.private.key.warning">
+    <en>If you press confirm button we will call your email program, so you can send your private key so you can use it in other wallets.++ Remember that the private key should never be shared!!!</en>
+    <es>If you press confirm button we will call your email program, so you can send your private key so you can use it in other wallets.++ Remember that the private key should never be shared!!!</es>
+  </text>
+
+  <text id="screen.bitcoin.wallet.name.as.you.want">
+    <en>Name your account as you want to be able to easily identify it.</en>
+    <es>Nombra tu cuenta como desees para que sea facilmente identificable.</es>
+  </text>
+
+  <text id="screen.bitcoin.exchange.information">
+    <en>Exchange Table</en>
+    <es>Table de cambios.</es>
+  </text>
+
+  <text id="screen.bitcoin.wallet.fill.the.inputfield.with.your.private.key">
+    <en>You have to write here your private key address.++ Now we are going to open the video tutorial to show you how in:++ http://www.youtube.com</en>
+    <es>Tiene que escribir su dirección de llave privada aquí.++Ahora vamos a abrir el video tutorial para enseñarle como es:++ http://www.youtube.com</es>
+  </text>
+
+  <text id="screen.bitcoin.manager.check.valid.key">
+    <en>Check Valid Key</en>
+    <es>Comprobar Llave</es>
+  </text>
+
+  <text id="screen.bitcoin.write.here.your.private.key">
+    <en>Write here your private wallet key</en>
+    <es>Escribe aqui el numero privado de tu cartera</es>
+  </text>
+
+  <text id="screen.bitcoin.check.qr.code">
+    <en>Scan QR Private Key Code</en>
+    <es>Escanear QR Llave Privada</es>
+  </text>
+
+  <text id="screen.location.reasuring.message.private.key">
+    <en>You have to write you secret key address in order to receive money and pay. This information is not transmitted over Internet and it's saved locally with a high level encryption algorithm.</en>
+    <es>Debes escribir tu llave privada para poder recibir y pagar. Esta información no es transmitida por la red y se guarda localmente con un alto nivel de encryptación.</es>
+  </text>
+
+  <text id="screen.location.key.is.not.defined.yet">
+    <en>No Key</en>
+    <es>No hay llave</es>
+  </text>
+
+  <text id="screen.location.key.valid">
+    <en>Valid Key</en>
+    <es>Llave Valida</es>
+  </text>
+
+  <text id="screen.location.key.wrong">
+    <en>Wrong Key</en>
+    <es>Llave Incorrecta</es>
+  </text>
+
+  <text id="message.location.key.is.not.valid.blockchain">
+    <en>The key introduced doesn't belong to a valid Bitcoin address</en>
+    <es>La llave introducida no pertenece a una direccion de Bitcoin</es>
+  </text>
+
+  <text id="message.location.key.not.updated.in.server">
+    <en>The key has not been updated</en>
+    <es>La llave no ha sido actualizada</es>
+  </text>
+
+  <text id="screen.location.do.you.want.to.set.up.private.key.now">
+    <en>You didn't set up your Bitcoin key address. Do you want to set it up now?</en>
+    <es>No has definido tu direccion de Bitcoin. Quieres definirla ahora?</es>
+  </text>
+
+  <text id="screen.table.exchange.prices.updated.15">
+    <en>Exchange rates updated every 15 minutes</en>
+    <es>Tablas de cambio actualizadas cada 15 minutos</es>
+  </text>
+
+  <text id="screen.table.exchange.title">
+    <en>Exchange Rates</en>
+    <es>Tablas de Cambio</es>
+  </text>
+
+  <text id="screen.table.exchange.money.earned">
+    <en>Money In Currency</en>
+    <es>Dinero En Moneda</es>
+  </text>
+
+  <text id="message.private.key.saved.success">
+    <en>Private Key successfully saved!</en>
+    <es>Llave privada guardada exitosamente!</es>
+  </text>
+
+  <text id="screen.bitcoin.check.output.history">
+    <en>Money Sent History</en>
+    <es>Historial Dinero Enviado</es>
+  </text>
+
+  <text id="screen.bitcoin.check.input.history">
+    <en>Money Received History</en>
+    <es>Historial Dinero Recibido</es>
+  </text>
+
+  <text id="screen.bitcoin.create.new.wallet">
+    <en>Create New Wallet</en>
+    <es>Crear Nueva Cartera</es>
+  </text>
+
+  <text id="screen.bitcoin.do.you.really.want.to.delete.wallet">
+    <en>You only delete the local data. It's not removed from the network. Just remember your private key.++Do you really want to delete this wallet?</en>
+    <es>Solo eliminas los datos locales. No se elimina de la red. Acuerdate de tu llave privada++Deseas realmente eliminar esta cartera?</es>
+  </text>
+
+  <text id="screen.bitcoin.operate.public.address">
+    <en>Public Address Operations</en>
+    <es>Operaciones Dirección Publica</es>
+  </text>
+
+  <text id="screen.bitcoin.public.address.to.be.paid">
+    <en>This is the public address you have to share in order to receive payments.</en>
+    <es>Esta es la dirección pública que debes compartir para recibir pagos.</es>
+  </text>
+
+  <text id="screen.bitcoin.copy.paste.public.address">
+    <en>Copy and paste the public key address to add/withdraw funds</en>
+    <es>Copia y pega la dirección pública para añadir/retirar fondos</es>
+  </text>
+
+  <text id="screen.bitcoin.wallet.once.you.set.up.done">
+    <en>Do you want to save this address?</en>
+    <es>Desea guardar esta dirección?</es>
+  </text>
+
+  <!-- COMMON TEXTS -->
+  <text id="screen.bitcoin.your.private.address">
+    <en>Your Private Bitcoin Address</en>
+    <es>Tu dirección privada Bitcoin</es>
+  </text>
+
+  <text id="message.amount">
+    <en>Amount</en>
+    <es>Cantidad</es>
+  </text>
+
+  <text id="message.fee">
+    <en>Fee</en>
+    <es>Tasa</es>
+  </text>
+
+
+  <text id="message.connecting.to.blockchain">
+    <en>Connecting to Blockchain Network.++Please wait...</en>
+    <es>Conectando a la red Blockchain.++Por favor, espere...</es>
+  </text>
+
+  <text id="text.network">
+    <en>Network: </en>
+    <es>Network: </es>
+  </text>
+
+  <text id="message.addresses">
+    <en>Address</en>
+    <es>Direccion</es>
+  </text>
+
+  <text id="message.to">
+    <en>To:</en>
+    <es>A:</es>
+  </text>
+
+  <text id="message.subject">
+    <en>Subject:</en>
+    <es>Sujeto:</es>
+  </text>
+
+  <text id="message.no.records">
+    <en>No Records</en>
+    <es>No hay registros</es>
+  </text>
+
+  <!-- BITCOIN -->
+  <text id="screen.scanqrcode.title">
+    <en>Scan QR Code</en>
+    <es>Escanera codigo QR</es>
+  </text>
+
+  <text id="screen.scanqrcode.instructions">
+    <en>Frame the camera with its focus in the QR Code</en>
+    <es>Encuadra la camara enfocando al codigo QR</es>
+  </text>
+
+  <text id="screen.scanqrcode.confirm.code">
+    <en>Confirm Code QR</en>
+    <es>Confirmar codigo QR</es>
+  </text>
+
+  <!-- BITCOIN SEND -->
+  <text id="screen.send.write.destination.address">
+    <en>Send money to address:</en>
+    <es>Enviar dinero a dirección:</es>
+  </text>
+
+  <text id="screen.send.amount.to.send">
+    <en>Amount to send:</en>
+    <es>Cantidad a enviar:</es>
+  </text>
+
+  <text id="screen.send.fee.to.miners">
+    <en>Fee to miners:</en>
+    <es>Tasa para los mineros:</es>
+  </text>
+
+  <text id="screen.send.write.description.transaction">
+    <en>Payment Topic:</en>
+    <es>Tema del pago::</es>
+  </text>
+
+  <text id="screen.send.explain.please">
+    <en>Describe payment</en>
+    <es>Describir pago</es>
+  </text>
+
+  <text id="screen.bitcoin.send.public.address">
+    <en>Send Address</en>
+    <es>Enviar Direccion</es>
+  </text>
+
+  <text id="screen.bitcoin.send.qr.code.address">
+    <en>Send QR Code</en>
+    <es>Enviar Código QR</es>
+  </text>
+
+  <text id="screen.bitcoin.enter.bitcoins">
+    <en>Add Bitcoins</en>
+    <es>Ingresar Bitcoins</es>
+  </text>
+
+  <text id="screen.bitcoin.withdraw.bitcoins">
+    <en>Withdraw Bitcoins</en>
+    <es>Retirar Bitcoins</es>
+  </text>
+
+  <text id="screen.enter.email.address">
+    <en>Enter the email address to send:</en>
+    <es>Escribe la dirección de correo:</es>
+  </text>
+
+  <text id="screen.enter.email.empty.data">
+    <en>There is no email address</en>
+    <es>No ha escrito la direccion de correo</es>
+  </text>
+
+  <text id="message.public.address">
+    <en>Public Address</en>
+    <es>Direccion Publica</es>
+  </text>
+
+  <text id="message.private.address">
+    <en>Private Address</en>
+    <es>Dirección Privada</es>
+  </text>
+
+  <text id="screen.bitcoin.message.email.send.public.key">
+    <en>Please, consider to make a transfer to this address</en>
+    <es>Por favor, considere hacer una transferencia a esta dirección</es>
+  </text>
+
+  <text id="screen.bitcoin.message.email.send.qrcode.image.key">
+    <en>Attached to this email there is a QR Code image with the public address to receive transfers</en>
+    <es>Adjunto a este correo hay un codigo QR con la dirección public para recibir transferencias</es>
+  </text>
+
+  <text id="screen.bitcoin.copied.public.key.clipboard">
+    <en>Now we are going to open a browser were you will be able to find your wallet with funds.++Copy and paste your public key address.</en>
+    <es>Ahora vamos a abrir una pagina del navegador donde podremos rellenar tu cartera con fondos++Copy y pega tu dirección pública.</es>
+  </text>
+
+  <text id="screen.bitcoin.choose.your.own.method.bitcoins.to.paypal">
+    <en>On the opened URL you can convert from Bitcoin to Paypal.++In the future, it should be possible to do it from inside this same application, just by setting up your PayPal email address.</en>
+    <es>On the opened URL you can convert from Bitcoin to Paypal.++In the future, it should be possible to do it from inside this same application, just by setting up your PayPal email address.</es>
+  </text>
+
+  <text id="screen.bitcoin.choose.your.own.method.bitcoins.to.paypal.2">
+    <en>Since you have the code you can do it by yourself.++You can be the first to make the most accessible way to earn Bitcoins with digital work and exchange it to PayPal easily</en>
+    <es>Since you have the code you can do it by yourself.++You can be the first to make the most accessible way to earn Bitcoins with digital work and exchange it to PayPal easily</es>
+  </text>
+
+  <text id="screen.bitcoin.choose.your.own.method.bitcoins.to.paypal.3">
+    <en>Since you are right now on the Test Network you can't exchange Bitcoin of this Test Network for real money because these Bitcoins are just for testing.</en>
+    <es>Since you are right now on the Test Network you can't exchange Bitcoin of this Test Network for real money because these Bitcoins are just for testing.</es>
+  </text>
+
+  <text id="screen.bitcoin.send.from.list.of.addresses">
+    <en>From Address List</en>
+    <es>De la libreta de direcciones</es>
+  </text>
+
+  <text id="screen.bitcoin.send.scan.qr.code.address">
+    <en>Scan QR Code with address</en>
+    <es>Escanear código QR de dirección</es>
+  </text>
+
+  <text id="screen.bitcoin.send.select.address">
+    <en>Select Address</en>
+    <es>Elige Dirección</es>
+  </text>
+
+  <text id="screen.bitcoin.send.transaction.success">
+    <en>The transaction has been done succesfully!!++It can take some time until the balance is updated.++Please, be patience.</en>
+    <es>La transaccion ha sido realizada existosamente!!++Puede llevar algo de tiempo para que el balance se actualize++Espere, por favor.</es>
+  </text>
+
+  <text id="screen.bitcoin.send.transaction.error">
+    <en>The transaction has failed to be done</en>
+    <es>La transaccion ha fallado en ejecutarse</es>
+  </text>
+
+  <text id="controller.bitcoin.not.enough.funds.to.perform">
+    <en>Not enough funds to perform the transaction.++Current Balance= %++Amount of transfer= %</en>
+    <es>No hay fondos suficientes para ejecutar la transaccion.++Balance Actual= %++Cantidad Transferencia= %</es>
+  </text>
+
+  <text id="screen.bitcoin.send.no.valid.address.to.send">
+    <en>There is no valid address to send</en>
+    <es>No hay una direccion valida para enviar</es>
+  </text>
+
+  <text id="screen.bitcoin.send.address.saved">
+    <en>Address was saved successfully!!</en>
+    <es>La dirección fue salvada exitosamente!!</es>
+  </text>
+
+  <text id="screen.enter.new.label.address">
+    <en>Enter the label you want to use to save the address.</en>
+    <es>Introduce la etiqueta que deaseas usar para guardar la dirección.</es>
+  </text>
+
+  <text id="screen.bitcoin.send.valid.address">
+    <en>This is a valid address.</en>
+    <es>Esta es una dirección valida.</es>
+  </text>
+
+  <text id="screen.bitcoin.send.invalid.address">
+    <en>This is not a valid address.++ You should write here the public address.</en>
+    <es>Esta no es una direccion valida++ Debe escribir aqui la dirección pública.</es>
+  </text>
+
+  <text id="text.locations.failed.to.broadcast.transaction.to.network">
+    <en>Operation failed to be executed++ It is possible that the amount of the miners' fee is too low to be accepted.</en>
+    <es>Fallo en la ejecución de la operación++ Es posible que la cantidad de pago a los mineros sea insuficiente.</es>
+  </text>
+
+  <text id="screen.bitcoin.send.fee.too.low">
+    <en>If the miners' fee is below 20 cents of USD it's possible that the network is not going to accept the transaction.++ Still, do you want to proceed?</en>
+    <es>Si la tasa a los mineros es menor de 20 centavos de USD es posible que la red no accepte la transacción++ Desea continuar de todas formas?</es>
+  </text>
+
+  <text id="screen.bitcoin.send.amount.too.low">
+    <en>The amount is below 1 USD. Are you sure you want to run this transaction?</en>
+    <es>La cantidad es menor a 1 Dollar. Esta seguro que desea continuar con esta transacción?</es>
+  </text>
+
+  <text id="screen.bitcoin.send.amount.no.zero">
+    <en>The amount of the transfer should not be zero.</en>
+    <es>La cantidad de la transferencia no debe ser zero.</es>
+  </text>
+
+  <text id="screen.bitcoin.send.confirm.right.and.pay">
+    <en>Confirm information right and pay</en>
+    <es>Confirmar informacion correcta y pagar</es>
+  </text>
+
+  <!-- BITCOIN LIST KEYS -->
+  <text id="screen.list.add.new.key">
+    <en>Add a new exiting wallet</en>
+    <es>Añadir una cartera existente</es>
+  </text>
+
+  <text id="screen.list.select.or.add.key">
+    <en>Select or add an existing the wallet</en>
+    <es>Elige o añade una cartera existente</es>
+  </text>
+
+  <text id="screen.list.select.wallet.used.to.pay">
+    <en>Select the wallet you want to use to pay</en>
+    <es>Elige la cartera que deseas utilizar para pagar</es>
+  </text>
+
+  <!-- BITCOIN LIST ADDRESSES -->
+  <text id="screen.bitcoin.address.list">
+    <en>Available Addresses:</en>
+    <es>Direcciones disponibles:</es>
+  </text>
+
+  <text id="screen.bitcoin.send.from.your.addresses">
+    <en>Your Addresses</en>
+    <es>Tus direcciones</es>
+  </text>
+
+  <text id="screen.bitcoin.select.wallet.to.send">
+    <en>Select wallet to send</en>
+    <es>Elige cuenta para enviar</es>
+  </text>
+
+  <!-- MISCELANEA -->
+  <text id="screen.bitcoin.transaction.in.favor.received">
+    <en>You have received a payment of % with the transaction ID %</en>
+    <es>Ha recibido un pago de % con el identificador de transacsaccion %</es>
+  </text>
+
+  <!-- ********************* -->
+  <!-- ETHEREUM MANAGER TEXTS -->
+  <!-- ********************* -->
+
+  <text id="screen.ethereum.features.page.1">
+    <en>Practise with this wallet as much time as you want with FREE Test Ethereum in the Test Network for FREE</en>
+    <es>Practica con esta cartera tanto tiempo como desee con Ethereum de test Gratuitos en la red de testeo gratuita</es>
+  </text>
+
+  <text id="screen.ethereum.features.page.2">
+    <en>The Test Network is a network the developers are using to develop Ethereum based applications without spending any real cash</en>
+    <es>La red de testeo es una red que utilizan los desarrolladores de applicaciones Ethereum sin necesidad de gastar dinero</es>
+  </text>
+
+  <text id="screen.ethereum.features.page.3">
+    <en>Once you get used the way Ethereum works you can switch to the Main Ethereum Network to work with real cash</en>
+    <es>Una vez este acostumbrado a la forma de trabajar de Ethereum usted puede cambiar a la red principal de Ethereum con dinero real</es>
+  </text>
+
+  <text id="screen.ethereum.features.page.4">
+    <en>It also allows ways to move your Ethereum from cryptocurrency to other currencies like PayPal easily</en>
+    <es>It also allows ways to move your Ethereum from cryptocurrency to other currencies like PayPal easily</es>
+  </text>
+
+  <text id="screen.ethereum.features.page.5">
+    <en>You will find the asset in Unity Asset Store in which this application is based so you can develop easily and add Ethereum to your business</en>
+    <es>Encontrará el asset en la Unity Asset Store en el cual esta basado esta aplicación para que usted pueda integrar Ethereum en su negocio</es>
+  </text>
+
+  <text id="screen.ethereum.transactions.inputs">
+    <en>Transactions of received income</en>
+    <es>Transacciones de dinero recibido</es>
+  </text>
+
+  <text id="screen.ethereum.transactions.outputs">
+    <en>Transactions of sent money</en>
+    <es>Transacciones de dinero enviado</es>
+  </text>
+
+  <text id="screen.ethereum.transactions.all">
+    <en>All type of transactions</en>
+    <es>Todo tipo de transacciones</es>
+  </text>
+
+  <text id="screen.ethereum.your.private.address">
+    <en>Your Private Ethereum Address</en>
+    <es>Tu dirección privada Ethereum</es>
+  </text>
+
+  <text id="screen.ethereum.wallet.once.you.set.up.done">
+    <en>Do you want to save this address?</en>
+    <es>Desea guardar esta dirección?</es>
+  </text>
+
+  <text id="screen.ethereum.wallet.send.private.key.warning">
+    <en>If you press confirm button we will call your email program, so you can send your private key so you can use it in other wallets.++ Remember that the private key should never be shared!!!</en>
+    <es>If you press confirm button we will call your email program, so you can send your private key so you can use it in other wallets.++ Remember that the private key should never be shared!!!</es>
+  </text>
+
+  <text id="screen.ethereum.wallet.name.as.you.want">
+    <en>Name your account as you want to be able to easily identify it.</en>
+    <es>Nombra tu cuenta como desees para que sea facilmente identificable.</es>
+  </text>
+
+  <text id="screen.ethereum.exchange.information">
+    <en>Exchange Table</en>
+    <es>Table de cambios.</es>
+  </text>
+
+  <text id="screen.ethereum.wallet.fill.the.inputfield.with.your.private.key">
+    <en>You have to write here your private key address.++ Now we are going to open the video tutorial to show you how in:++ http://www.youtube.com</en>
+    <es>Tiene que escribir su dirección de llave privada aquí.++Ahora vamos a abrir el video tutorial para enseñarle como es:++ http://www.youtube.com</es>
+  </text>
+
+  <text id="screen.ethereum.manager.check.valid.key">
+    <en>Check Valid Key</en>
+    <es>Comprobar Llave</es>
+  </text>
+
+  <text id="screen.ethereum.write.here.your.private.key">
+    <en>Write here your private wallet key</en>
+    <es>Escribe aqui el numero privado de tu cartera</es>
+  </text>
+
+  <text id="screen.ethereum.check.qr.code">
+    <en>Scan QR Private Key Code</en>
+    <es>Escanear QR Llave Privada</es>
+  </text>
+
+  <text id="screen.ethereum.check.output.history">
+    <en>Money Sent History</en>
+    <es>Historial Dinero Enviado</es>
+  </text>
+
+  <text id="screen.ethereum.check.input.history">
+    <en>Money Received History</en>
+    <es>Historial Dinero Recibido</es>
+  </text>
+
+  <text id="screen.ethereum.create.new.wallet">
+    <en>Create New Wallet</en>
+    <es>Crear Nueva Cartera</es>
+  </text>
+
+  <text id="screen.ethereum.do.you.really.want.to.delete.wallet">
+    <en>You only delete the local data. It's not removed from the network. Just remember your private key.++Do you really want to delete this wallet?</en>
+    <es>Solo eliminas los datos locales. No se elimina de la red. Acuerdate de tu llave privada++Deseas realmente eliminar esta cartera?</es>
+  </text>
+
+  <text id="screen.ethereum.operate.public.address">
+    <en>Public Address Operations</en>
+    <es>Operaciones Dirección Publica</es>
+  </text>
+
+  <text id="screen.ethereum.public.address.to.be.paid">
+    <en>This is the public address you have to share in order to receive payments.</en>
+    <es>Esta es la dirección pública que debes compartir para recibir pagos.</es>
+  </text>
+
+  <text id="screen.ethereum.copy.paste.public.address">
+    <en>Copy and paste the public key address to add/withdraw funds</en>
+    <es>Copia y pega la dirección pública para añadir/retirar fondos</es>
+  </text>
+
+
+  <text id="screen.ethereum.send.public.address">
+    <en>Send Address</en>
+    <es>Enviar Direccion</es>
+  </text>
+
+  <text id="screen.ethereum.send.qr.code.address">
+    <en>Send QR Code</en>
+    <es>Enviar Código QR</es>
+  </text>
+
+  <text id="screen.ethereum.enter.ethereum">
+    <en>Add Ethereum</en>
+    <es>Ingresar Ethereum</es>
+  </text>
+
+  <text id="screen.ethereum.withdraw.ethereum">
+    <en>Withdraw Ethereum</en>
+    <es>Retirar Ethereum</es>
+  </text>
+
+  <text id="screen.ethereum.message.email.send.public.key">
+    <en>Please, consider to make a transfer to this address</en>
+    <es>Por favor, considere hacer una transferencia a esta dirección</es>
+  </text>
+
+  <text id="screen.ethereum.message.email.send.qrcode.image.key">
+    <en>Attached to this email there is a QR Code image with the public address to receive transfers</en>
+    <es>Adjunto a este correo hay un codigo QR con la dirección public para recibir transferencias</es>
+  </text>
+
+  <text id="screen.ethereum.copied.public.key.clipboard">
+    <en>Now we are going to open a browser were you will be able to find your wallet with funds.++Copy and paste your public key address.</en>
+    <es>Ahora vamos a abrir una pagina del navegador donde podremos rellenar tu cartera con fondos++Copy y pega tu dirección pública.</es>
+  </text>
+
+  <text id="screen.ethereum.choose.your.own.method.bitcoins.to.paypal">
+    <en>On the opened URL you can convert from Ethereum to Paypal.++In the future, it should be possible to do it from inside this same application, just by setting up your PayPal email address.</en>
+    <es>On the opened URL you can convert from Ethereum to Paypal.++In the future, it should be possible to do it from inside this same application, just by setting up your PayPal email address.</es>
+  </text>
+
+  <text id="screen.ethereum.choose.your.own.method.bitcoins.to.paypal.2">
+    <en>Since you have the code you can do it by yourself.++You can be the first to make the most accessible way to earn Ethereum with digital work and exchange it to PayPal easily</en>
+    <es>Since you have the code you can do it by yourself.++You can be the first to make the most accessible way to earn Ethereum with digital work and exchange it to PayPal easily</es>
+  </text>
+
+  <text id="screen.ethereum.choose.your.own.method.bitcoins.to.paypal.3">
+    <en>Since you are right now on the Test Network you can't exchange Ethereum of this Test Network for real money because these Ethereum are just for testing.</en>
+    <es>Since you are right now on the Test Network you can't exchange Ethereum of this Test Network for real money because these Ethereum are just for testing.</es>
+  </text>
+
+  <text id="screen.ethereum.send.from.list.of.addresses">
+    <en>From Address List</en>
+    <es>De la libreta de direcciones</es>
+  </text>
+
+  <text id="screen.ethereum.send.scan.qr.code.address">
+    <en>Scan QR Code with address</en>
+    <es>Escanear código QR de dirección</es>
+  </text>
+
+  <text id="screen.ethereum.send.select.address">
+    <en>Select Address</en>
+    <es>Elige Dirección</es>
+  </text>
+
+  <text id="screen.ethereum.send.transaction.success">
+    <en>The transaction has been done succesfully!!++It can take some time until the balance is updated.++Please, be patience.</en>
+    <es>La transaccion ha sido realizada existosamente!!++Puede llevar algo de tiempo para que el balance se actualize++Espere, por favor.</es>
+  </text>
+
+  <text id="screen.ethereum.send.transaction.error">
+    <en>The transaction has failed to be done</en>
+    <es>La transaccion ha fallado en ejecutarse</es>
+  </text>
+
+  <text id="controller.ethereum.not.enough.funds.to.perform">
+    <en>Not enough funds to perform the transaction.++Current Balance= %++Amount of transfer= %</en>
+    <es>No hay fondos suficientes para ejecutar la transaccion.++Balance Actual= %++Cantidad Transferencia= %</es>
+  </text>
+
+  <text id="screen.ethereum.send.no.valid.address.to.send">
+    <en>There is no valid address to send</en>
+    <es>No hay una direccion valida para enviar</es>
+  </text>
+
+  <text id="screen.ethereum.send.address.saved">
+    <en>Address was saved successfully!!</en>
+    <es>La dirección fue salvada exitosamente!!</es>
+  </text>
+
+  <text id="screen.ethereum.send.valid.address">
+    <en>This is a valid address.</en>
+    <es>Esta es una dirección valida.</es>
+  </text>
+
+  <text id="screen.ethereum.send.invalid.address">
+    <en>This is not a valid address.++ You should write here the public address.</en>
+    <es>Esta no es una direccion valida++ Debe escribir aqui la dirección pública.</es>
+  </text>
+
+  <text id="screen.ethereum.send.fee.too.low">
+    <en>If the miners' fee is below 20 cents of USD it's possible that the network is not going to accept the transaction.++ Still, do you want to proceed?</en>
+    <es>Si la tasa a los mineros es menor de 20 centavos de USD es posible que la red no accepte la transacción++ Desea continuar de todas formas?</es>
+  </text>
+
+  <text id="screen.ethereum.send.amount.too.low">
+    <en>The amount is below 1 USD. Are you sure you want to run this transaction?</en>
+    <es>La cantidad es menor a 1 Dollar. Esta seguro que desea continuar con esta transacción?</es>
+  </text>
+
+  <text id="screen.ethereum.send.amount.no.zero">
+    <en>The amount of the transfer should not be zero.</en>
+    <es>La cantidad de la transferencia no debe ser zero.</es>
+  </text>
+
+  <text id="screen.ethereum.send.confirm.right.and.pay">
+    <en>Confirm information right and pay</en>
+    <es>Confirmar informacion correcta y pagar</es>
+  </text>
+
+  <text id="screen.ethereum.send.deploy.contract">
+    <en>Deploying contract...</en>
+    <es>Publicando contrato...</es>
+  </text>
+
+  <text id="screen.ethereum.send.calculate.nonce">
+    <en>Calculate nonce...</en>
+    <es>Calculando nonce...</es>
+  </text>
+
+  <text id="screen.ethereum.send.mining.transaction">
+    <en>Mining contract. Step %...</en>
+    <es>Trabajando contracto. Paso %...</es>
+  </text>
+
+  <text id="screen.ethereum.send.calculate.gas">
+    <en>Calculate gas...</en>
+    <es>Calculando gas...</es>
+  </text>
+
+  <text id="screen.ethereum.send.sign.send.transaction">
+    <en>Sign and send transaction...</en>
+    <es>Firmando y enviando transacción...</es>
+  </text>
+
+  <text id="screen.ethereum.select.data.to.sign">
+    <en>Select in order the data and documents you want to sign</en>
+    <es>Elija en orden los datos y documentos que desee firmar</es>
+  </text>
+
+  <text id="screen.ethereum.select.data.to.verify">
+    <en>Select in order the data and documents you want to verify authenticity</en>
+    <es>Elija en orden los datos y documentos que desee verificar su autenticidad</es>
+  </text>
+
+  <text id="screen.ethereum.sign.data">
+    <en>Sign Selected Data</en>
+    <es>Firmar Datos Seleccionados</es>
+  </text>
+
+  <text id="screen.ethereum.verify.data">
+    <en>Verify Selected Data</en>
+    <es>Verificar Datos Seleccionados</es>
+  </text>
+
+  <text id="screen.ethereum.sign.add.new.data.document">
+    <en>Add new data or document to sign</en>
+    <es>Añadir nuevos datos o documento a firmar</es>
+  </text>
+
+  <text id="screen.ethereum.sign.select.data">
+    <en>Select data to enter</en>
+    <es>Elije datos para entrar</es>
+  </text>
+
+  <text id="screen.ethereum.sign.type.data.add.text">
+    <en>Add New Text</en>
+    <es>Añade Mensaje de Texto</es>
+  </text>
+
+  <text id="screen.ethereum.sign.type.data.add.file">
+    <en>Add New File</en>
+    <es>Añade Nuevo Fichero</es>
+  </text>
+
+  <text id="screen.ethereum.operation.sign.verification">
+    <en>Choose the operation about sign</en>
+    <es>Elige operación sobre firmado</es>
+  </text>
+
+  <text id="screen.ethereum.operation.sign.your.documents">
+    <en>Sign your data</en>
+    <es>Firma tus datos</es>
+  </text>
+
+  <text id="screen.ethereum.operation.sign.verify.documents">
+    <en>Verify Signning Authenticity</en>
+    <es>Verificación Autenticidad Firmado</es>
+  </text>
+
+  <text id="screen.ethereum.sign.write.text.you.want.signed">
+    <en>Write the text you want to sign</en>
+    <es>Escribe el texto que quieres firmar</es>
+  </text>
+
+  <text id="screen.ethereum.here.is.your.signed.data">
+    <en>Here is your signed data</en>
+    <es>Aqui esta tu firma sobre los datos</es>
+  </text>
+
+  <text id="screen.ethereum.sign.write.data.signed.to.verify">
+    <en>Write the contract Id</en>
+    <es>Escribe el Id del contrato</es>
+  </text>
+
+  <text id="screen.ethereum.start.verification">
+    <en>Verify Signed Data</en>
+    <es>Verificar Datos Firmados</es>
+  </text>
+
+  <text id="screen.ethereum.sign.validation.success">
+    <en>Verified Authenticity Success</en>
+    <es>Verificación Exitosa de Autenticidad</es>
+  </text>
+
+  <text id="screen.ethereum.sign.validation.failed">
+    <en>Failure to validate Authenticity</en>
+    <es>Fracaso al validar Autenticidad</es>
+  </text>
+
+  <text id="screen.ethereum.title.signed">
+    <en>Data Signed</en>
+    <es>Datos Firmados</es>
+  </text>
+
+  <text id="screen.ethereum.public.key.used.in.signning">
+    <en>Public Key Used for Signning</en>
+    <es>Llave publica usada para firmar</es>
+  </text>
+
+  <text id="screen.ethereum.sign.no.data.to.sign">
+    <en>No data or documents to sign</en>
+    <es>No hay datos o documentos para firmar</es>
+  </text>
+
+  <text id="screen.ethereum.address.list">
+    <en>Available Addresses:</en>
+    <es>Direcciones disponibles:</es>
+  </text>
+
+  <text id="screen.ethereum.send.from.your.addresses">
+    <en>Your Addresses</en>
+    <es>Tus direcciones</es>
+  </text>
+
+  <text id="screen.ethereum.select.wallet.to.send">
+    <en>Select wallet to send</en>
+    <es>Elige cuenta para enviar</es>
+  </text>
+
+  <text id="screen.ethereum.documents.url.signed">
+    <en>The document's names signed and stored</en>
+    <es>Los nombres de los documentos firmados y guardados</es>
+  </text>
+
+  <text id="screen.ethereum.contract.id.for.signed.data">
+    <en>The contract id for the signed documents</en>
+    <es>El id del contrato para los documentos firmados</es>
+  </text>
+
+  <text id="screen.ethereum.mining.transaction">
+    <en>Mining transaction % ...</en>
+    <es>Mining transaction % ...</es>
+  </text>
+
+</texts>
+
+
